@@ -1,0 +1,8 @@
+# Temporary LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.pdf
+
+# macOS files
+.DS_Store
